@@ -1,0 +1,17 @@
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\bin\Debug\net6.0-windows\Final-643450065-4.exe
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\bin\Debug\net6.0-windows\Final-643450065-4.deps.json
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\bin\Debug\net6.0-windows\Final-643450065-4.runtimeconfig.json
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\bin\Debug\net6.0-windows\Final-643450065-4.dll
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\bin\Debug\net6.0-windows\ref\Final-643450065-4.dll
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\bin\Debug\net6.0-windows\Final-643450065-4.pdb
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.csproj.AssemblyReference.cache
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final_643450065_4.Form1.resources
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.csproj.GenerateResource.cache
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.AssemblyInfoInputs.cache
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.AssemblyInfo.cs
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.csproj.CoreCompileInputs.cache
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.dll
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\ref\Final-643450065-4.dll
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.pdb
+D:\งาน\Final-643450065-4\Final-643450065-4\Final-643450065-4\obj\Debug\net6.0-windows\Final-643450065-4.genruntimeconfig.cache
